@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# For LLM evaluation (optional - only install what you need)
+# Uncomment the ones you plan to use:
+
+# Google Gemini (FREE)
+google-generativeai>=0.3.0
+
+# Anthropic Claude (PAID)
+anthropic>=0.18.0
+
+# OpenAI GPT-4 (PAID)
+openai>=1.0.0

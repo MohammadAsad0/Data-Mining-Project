@@ -1,0 +1,2 @@
+Overall Score (1-10): 10
+Brief Justification: Every numerical fact in the generated summary (temperature averages, extremes, seasonal differences, precipitation totals, and correlation) matches the dataset exactly. The summary clearly presents key insights such as temperature range, seasonal variation, and precipitation extremes, while maintaining fluent and logical flow. It is accurate, informative, complete, and well-written.
